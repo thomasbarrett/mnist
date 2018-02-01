@@ -1,0 +1,26 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Thomas Barrett",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "grunt": "~0.4.2",
+    "grunt-babel": "~7.0.0",
+    "grunt-react": "~0.12.3"
+  },
+  "dependencies": {
+    "electron": "~1.7.11",
+    "keras-js": "^1.0.2",
+    "material-ui": "~0.20.0",
+    "react": "~16.2.0",
+    "react-dom": "~16.2.0"
+  }
+}
